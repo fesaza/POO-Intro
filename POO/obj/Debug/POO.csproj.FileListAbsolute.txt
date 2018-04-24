@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\bin\Debug\POO.exe.config
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\bin\Debug\POO.exe
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\bin\Debug\POO.pdb
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\obj\Debug\POO.exe
+\\mac\home\documents\visual studio 2017\Projects\POO\POO\obj\Debug\POO.pdb
